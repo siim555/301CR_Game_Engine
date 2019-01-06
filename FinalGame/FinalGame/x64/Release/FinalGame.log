@@ -1,0 +1,20 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  pch.cpp
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  FinalGame.cpp
+c:\users\siim järg\source\repos\finalgame\finalgame\object.h(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siim järg\source\repos\finalgame\finalgame\object.h(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siim järg\source\repos\finalgame\finalgame\server.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siim järg\source\repos\finalgame\finalgame\server.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siim järg\source\repos\finalgame\finalgame\server.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siim järg\source\repos\finalgame\finalgame\server.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siim järg\source\repos\finalgame\finalgame\server.cpp(148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\siim järg\source\repos\finalgame\finalgame\client.cpp(22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+c:\users\siim järg\source\repos\finalgame\finalgame\object.h(56): warning C4715: 'GameObject::location': not all control paths return a value
+c:\users\siim järg\source\repos\finalgame\finalgame\fileloading.h(47): warning C4715: 'getFromFileInt': not all control paths return a value
+c:\users\siim järg\source\repos\finalgame\finalgame\fileloading.h(19): warning C4715: 'getFromFileChar': not all control paths return a value
+c:\users\siim järg\source\repos\finalgame\finalgame\fileloading.h(33): warning C4715: 'getFromFileString': not all control paths return a value
+  All 795 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FinalGame.vcxproj -> C:\Users\Siim Järg\source\repos\FinalGame\x64\Release\FinalGame.exe
