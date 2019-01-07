@@ -13,7 +13,7 @@ public:
         pSound.setBuffer(pBuffer);
         
     }
-    bool setLoop(bool state){
+    void setLoop(bool state){
         pSound.setLoop(state);
     }
     void setVolume(float volume){
